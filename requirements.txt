@@ -1,0 +1,6 @@
+BeautifulSoup4
+selenium
+matplotlib
+opencv-python-headless
+webdriver-manager
+pytesseract
