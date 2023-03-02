@@ -24,3 +24,6 @@ put the path of the file into the path of the environment variable, like C:\Prog
 
 ## Copy .env file and set the value
 cp .env.example .env
+
+## Start the program
+python packetMode.py
