@@ -1,0 +1,5 @@
+venv
+images
+.env
+test.py
+buttonMode.py
